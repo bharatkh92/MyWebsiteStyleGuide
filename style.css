@@ -1,0 +1,166 @@
+body {
+    font-family: 'Antonio', sans-serif;
+}
+header {
+    margin: 0 9.5%;
+}
+
+h1 {
+    width: fit-content;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    position: relative;
+    font-size: xx-large;
+    margin: 1%;
+    color: #bc00d1;
+}
+
+.colors {
+    border: 1px solid #212121;
+    margin: 0 9.5%;
+    padding: 10px;
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.color-names {
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    margin: 3% 1%;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#black {
+    background-color: #212121;
+}
+
+#grey {
+    background-color: #323232;
+}
+
+#surfie {
+    background-color: #0D7377;
+}
+
+#cyan {
+    background-color: #14ffec;
+}
+
+.fonts {
+    border: 1px solid #212121;
+    margin: 1% 9.5%;
+    padding: 10px;
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.font-names {
+    display: inline-block;
+    position: relative;
+    width: 40%;
+    margin: 3% 1%;
+    font-size: 21px;
+}
+
+.font {
+    color: #bc6ff1;
+    font-weight: bold;
+}
+
+#poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+#poppins .normal {
+    font-weight: normal;
+}
+
+#poppins .bold {
+    font-weight: bold;
+}
+
+#poppins .italic {
+    font-style: italic;
+}
+
+#roboto-mono {
+    font-family: 'Roboto Mono', monospace;
+}
+
+#roboto-mono .normal {
+    font-weight: normal;
+}
+
+#roboto-mono .bold {
+    font-weight: bold;
+}
+
+#roboto-mono .italic {
+    font-style: italic;
+}
+
+#ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#ubuntu .normal {
+    font-weight: normal;
+}
+
+#ubuntu .bold {
+    font-weight: bold;
+}
+
+#ubuntu .italic {
+    font-style: italic;
+}
+
+#work-sans {
+    font-family: 'Work Sans', sans-serif;
+}
+
+#work-sans .normal {
+    font-weight: normal;
+}
+
+#work-sans .bold {
+    font-weight: bold;
+}
+
+#work-sans .italic {
+    font-style: italic;
+}
+
+.text-styles {
+    border: 1px solid #212121;
+    margin: 1% 9.5%;
+    padding: 10px;
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.text-styles h1 {
+    position: relative;
+    margin: 1%;
+    width: fit-content;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text-styles h2 {
+    position: relative;
+    font-size: xx-large;
+    margin: 1%;
+    color: #bc00d1;
+}
+
+.text-styles p {
+    position: relative;
+    margin: 1%;
+}
